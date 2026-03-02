@@ -1,6 +1,6 @@
 /* Webapp */
-var wapp = 
-{	font:{},
+var wapp = {
+  font:{},
 	oldfont:{},
 	oldglyph:{}
 };
@@ -16,8 +16,8 @@ ol.style.FontSymbol.addDefs = function(f,g)
 
 /** Load css for the font
 */
-wapp.loadcss = function(cssId, font)
-{	var filename = cssId+"/css/"+font+'.css?'+Number(new Date());
+wapp.loadcss = function(cssId, font) {
+  var filename = cssId+"/css/"+font+'.css?'+Number(new Date());
 	
 	var css = $("#fonts")
 	if (!css.length)
@@ -44,8 +44,8 @@ wapp.loaddef = function(cssId, font)
 	$("head").append(js);
 }
 
-wapp.load = function(name)
-{	var idiv = $("#icons").html("");
+wapp.load = function(name) {
+	var idiv = $("#icons").html("");
 	var f = name+"/config.json"; //"_fontdef/../"+name+"/config.json";
 	$.getJSON( f, function (font) 
 	{	wapp.font=font;
@@ -152,8 +152,8 @@ wapp.export = function(nocalc)
 	return t;
 };
 
-wapp.save = function()
-{	var name = wapp.font.name;
+wapp.save = function() {
+	var name = wapp.font.name;
 	var copy = "/* Copyright "+(wapp.oldfont[name].copyright||"CC0")+ " - "+name+"\n"
 		+" *\n"
 		+" * Font definiton to use with fontsymbols\n"
@@ -162,3 +162,7 @@ wapp.save = function()
 	var blob = new Blob([copy+wapp.export(true)+");"], {type: "text/javascript;charset=utf-8"});
 	FileSaver.saveAs(blob, name+".def.js");
 };
+
+setTimeout(function(){
+	wapp.load('pirate')
+}, 500);
