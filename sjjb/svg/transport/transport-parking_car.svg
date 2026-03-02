@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="580"
+   height="580"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="parking_car.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:language>en</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1005"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="380.19685"
+     inkscape:cy="-50.064878"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="svg2"
+     inkscape:window-maximized="0" />
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 290 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="580 : 290 : 1"
+       inkscape:persp3d-origin="290 : 193.33333 : 1"
+       id="perspective12" />
+    <style
+       type="text/css"
+       id="style6">
+   
+    .fil0 {fill:#EF7900}
+   
+  </style>
+    <inkscape:perspective
+       id="perspective6807"
+       inkscape:persp3d-origin="29.116032 : 19.410688 : 1"
+       inkscape:vp_z="58.232063 : 29.116032 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 29.116032 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6954"
+       inkscape:persp3d-origin="290 : 193.33333 : 1"
+       inkscape:vp_z="580 : 290 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 290 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       viewBox="0 0 10 10"
+       refY="5"
+       refX="10"
+       orient="auto"
+       markerWidth="4"
+       markerUnits="strokeWidth"
+       markerHeight="3"
+       id="ArrowStart">
+      <path
+         id="path2295"
+         d="M 10 0 L 0 5 L 10 10 z" />
+    </marker>
+    <marker
+       viewBox="0 0 10 10"
+       refY="5"
+       refX="0"
+       orient="auto"
+       markerWidth="4"
+       markerUnits="strokeWidth"
+       markerHeight="3"
+       id="ArrowEnd">
+      <path
+         id="path2292"
+         d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+    <inkscape:perspective
+       id="perspective7597"
+       inkscape:persp3d-origin="178.5405 : 158.483 : 1"
+       inkscape:vp_z="357.08099 : 237.7245 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 237.7245 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <path
+     style="fill:#000080;stroke:none"
+     d="M 47.878906,59.166016 47.878906,429.04102 96.826172,429.04102 96.826172,278.66992 191.69141,278.66992 C 244.00188,278.67007 280.16538,267.77836 300.18164,245.99609 320.19732,224.21418 330.20476,197.59651 330.20508,166.14258 330.20476,147.80888 326.46318,130.98829 318.97852,115.68164 311.49325,100.37562 301.61045,88.474991 289.33203,79.980469 277.05304,71.486644 261.83154,65.725258 243.66602,62.697266 230.71427,60.342812 211.95957,59.166385 187.40234,59.166016 Z M 96.826172,102.81445 191.43945,102.81445 C 213.64186,102.81477 228.86337,103.90745 237.10547,106.09375 249.88855,109.6263 260.19204,116.90107 268.01367,127.91797 275.83478,138.93547 279.74387,152.18198 279.74414,167.65625 279.74387,189.0181 273.10016,205.58548 259.8125,217.35938 246.52433,229.13369 224.06896,235.02168 192.44727,235.02148 L 96.826172,235.02148 Z M 277.58984,329.16602 C 260.43526,329.16602 251.33593,338.53174 247.13477,349.49414 L 224.83398,407.07617 C 215.99345,408.20976 200.32031,418.58771 200.32031,438.24609 L 200.32031,511.47266 222.02734,511.47266 222.02734,534.89062 C 222.02734,563.70219 262.80272,563.36287 262.80273,534.89062 L 262.80273,511.47266 336.14844,511.47266 336.17188,511.47266 409.51758,511.47266 409.51758,534.89062 C 409.51758,563.36287 450.29274,563.70219 450.29297,534.89062 L 450.29297,511.47266 471.99805,511.47266 471.99805,438.24609 C 471.99805,418.58772 456.32701,408.20976 447.48633,407.07617 L 425.16211,349.49414 C 420.96096,338.53174 411.85979,329.16602 394.70508,329.16602 L 363.17969,329.16602 309.49609,329.16602 Z M 277.32812,350.13477 336.09961,350.13477 336.14844,350.13477 336.17188,350.13477 394.9668,350.13477 C 402.31842,350.20323 405.46779,354.80039 407.56836,361.16602 L 424.37695,406.48242 336.17188,406.48242 336.14844,406.48242 336.09961,406.48242 247.91797,406.48242 264.72852,361.16602 C 266.82911,354.80039 269.97573,350.20323 277.32812,350.13477 Z M 243.06836,428.52148 C 253.47043,428.52148 261.89844,437.20027 261.89844,447.92188 261.89843,458.64349 253.47043,467.3457 243.06836,467.3457 232.66629,467.3457 224.23828,458.64347 224.23828,447.92188 224.23828,437.20028 232.66629,428.52148 243.06836,428.52148 Z M 429.25195,428.52148 C 439.65402,428.52148 448.08206,437.20028 448.08203,447.92188 448.08199,458.64348 439.65402,467.3457 429.25195,467.3457 418.84988,467.3457 410.39844,458.64349 410.39844,447.92188 410.39844,437.20027 418.84988,428.52148 429.25195,428.52148 Z"
+     id="path2301"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccsscccccccccccssccsccsccssccccssccsccsccsccccccccccccczzzzzzzzzz" />
+</svg>

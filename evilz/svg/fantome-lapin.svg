@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="24"
+   height="24"
+   id="svg4460"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="fantome-lapin.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="972"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="13.906433"
+     inkscape:cx="3.3585776"
+     inkscape:cy="2.9536354"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4460" />
+  <defs
+     id="defs4462" />
+  <metadata
+     id="metadata4465">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     unicode="Z"
+     horiz-adv-x="1349"
+     d="M 5.71189,22.9818 Q 6.28252,23.1608 6.62937,23.172 7.13287,23.172 7.33427,22.7357 7.61399,22.165 7.7986,22.0587 7.98322,21.9524 8.16224,21.9524 8.36364,21.9524 8.67692,22.1594 8.99021,22.3664 9.12448,22.3664 9.38182,22.3664 9.65035,21.8853 9.73986,21.7287 9.73986,21.4713 9.73986,20.9455 9.07972,19.5245 8.05035,17.3427 7.7035,16.4587 6.85315,14.2769 6.53986,12.1287 6.47273,11.6028 6.47273,10.842 L 6.47273,10.7748 Q 6.47273,8.235 7.31189,5.6615 7.33427,0.4364 7.7035,0 7.86014,0.1119 8.13986,0.6713 8.75525,2.0028 9.73986,5.3371 L 15.17762,5.3594 Q 17.1021,0.6378 17.76224,0.3692 18.01958,0.5483 18.01958,2.2937 18.01958,3.7594 17.80699,6.1427 18.28811,8.0224 18.28811,10.014 18.28811,11.4573 18.06434,12.5874 17.4042,15.6308 16.29651,17.779 15.81539,18.7189 14.39441,20.8112 13.71189,21.8182 12.6042,22.6685 11.39581,23.586 10.55665,23.586 L 10.47832,23.586 Q 9.93007,23.5636 9.30909,23.3566 8.68811,23.1497 8.55385,23.1497 8.20699,23.1497 8.02797,23.6531 7.87133,24 7.45734,24 6.7972,24 5.71189,22.9818 Z M 8.02797,9.9469 Q 8.57623,10.8643 9.81818,11.4797 10.93706,12.0168 12.12308,12.1063 L 12.25734,12.1063 Q 15.24476,12.1063 16.66574,10.1259 14.43916,10.9538 12.35804,10.9538 L 12.14546,10.9538 Q 11.50769,10.8867 10.86993,10.7748 9.33706,10.4951 8.02797,9.9469 Z M 8.71049,8 Q 8.71049,8.5706 9.26434,8.9399 9.81818,9.3091 10.36644,9.3091 10.98182,9.3091 11.41818,8.8727 L 8.82238,7.5189 Q 8.71049,7.7762 8.71049,8 Z M 13.52168,8.8056 Q 13.95804,9.421 14.76364,9.421 15.2,9.421 15.63637,9.2643 16.31888,8.8951 16.31888,8.2014 16.31888,8.0448 16.29651,7.8881 Z"
+     id="path128" />
+</svg>

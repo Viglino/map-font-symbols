@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="24"
+   height="24"
+   id="svg4460"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="coeur-eclair.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="972"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="0.21728802"
+     inkscape:cx="-254.03195"
+     inkscape:cy="209.89923"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4460" />
+  <defs
+     id="defs4462" />
+  <metadata
+     id="metadata4465">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     unicode="e"
+     horiz-adv-x="1966"
+     d="M -0.099935,7.0554906 Q 0.2259213,9.2656447 1.5010124,11.730815 4.5753893,17.652886 11.914232,23.999998 19.224741,17.638724 22.299118,11.730815 23.574209,9.2656447 23.900065,7.0554906 L 23.900065,6.7154624 Q 23.885903,3.6410855 21.902431,1.7709499 20.216482,0.18417444 18.133836,0.19834642 17.609631,0.19834642 17.057093,0.29752051 13.996878,0.83588704 11.914232,4.1794521 9.4065557,0.21250848 5.7938124,0.21250848 L 5.7654684,0.21250848 Q 3.2719641,0.21250848 1.5860146,2.0968062 -0.099935,3.9527698 -0.099935,6.7013003 L -0.099935,7.0554906 Z M 7.8764483,10.795742 16.957919,4.9728447 12.820961,10.909088 16.235366,13.119242 8.641507,18.488785 12.523439,12.623372 Z"
+     id="path150" />
+</svg>

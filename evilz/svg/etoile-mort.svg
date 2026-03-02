@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="24"
+   height="24"
+   id="svg4460"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="etoile-mort.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="972"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="0.21728802"
+     inkscape:cx="-254.03195"
+     inkscape:cy="209.89923"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4460" />
+  <defs
+     id="defs4462" />
+  <metadata
+     id="metadata4465">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     unicode="g"
+     horiz-adv-x="2179"
+     d="M 0,9.29686 6.00298,15.1447 4.59473,23.40328 11.99403,19.48881 19.40527,23.40328 17.98508,15.1447 24,9.29686 15.70562,8.10343 11.99403,0.59672 8.28245,8.10343 Z M 7.35157,13.46196 Q 7.35157,11.55246 8.81949,10.25161 10.21581,8.98657 12.13725,8.98657 14.07061,8.98657 15.51467,10.28145 16.95873,11.57633 16.95873,13.46196 16.95873,15.88463 14.07061,16.6365 L 14.07061,16.77971 Q 14.07061,17.14967 13.81402,17.43013 13.55743,17.71059 13.22327,17.73446 12.87718,17.7822 12.68623,17.63898 12.41174,17.82993 12.08951,17.82993 11.74341,17.82993 11.45699,17.61511 11.28991,17.7822 10.91994,17.73446 10.54998,17.71059 10.30532,17.43013 10.06067,17.14967 10.06067,16.77971 L 10.06067,16.58876 Q 7.35157,15.80109 7.35157,13.46196 Z M 8.79562,13.09199 Q 8.79562,13.74838 9.18349,14.18995 9.57136,14.63152 10.12034,14.63152 10.65738,14.63152 11.04525,14.18995 11.43312,13.74838 11.43312,13.09199 11.43312,12.45947 11.04525,12.00596 10.65738,11.55246 10.12034,11.55246 9.58329,11.55246 9.18946,12.00596 8.79562,12.45947 8.79562,13.09199 Z M 11.57633,15.51467 Q 11.57633,15.95624 12.17305,15.95624 12.66236,15.95624 12.65042,15.58627 12.65042,15.31178 12.48931,15.03133 12.32819,14.75087 12.13725,14.75087 11.97016,14.75087 11.77325,15.00746 11.57633,15.26405 11.57633,15.51467 Z M 12.75783,13.09199 Q 12.75783,13.74838 13.1457,14.18995 13.53357,14.63152 14.07061,14.63152 14.60766,14.63152 15.00149,14.18995 15.39533,13.74838 15.39533,13.09199 15.39533,12.45947 15.00149,12.00596 14.60766,11.55246 14.07061,11.55246 13.53357,11.55246 13.1457,12.00596 12.75783,12.45947 12.75783,13.09199 Z"
+     id="path154" />
+</svg>

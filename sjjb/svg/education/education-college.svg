@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   height="580"
+   width="580"
+   version="1.0"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="college.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="972"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="1.1508772"
+     inkscape:cx="314.08515"
+     inkscape:cy="310.19922"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     id="path3526"
+     d="M 288.875 46.5 A 15.394957 15.394957 0 0 0 274.875 56.09375 L 239.61328 139.55859 L 73.263672 139.55859 A 10.263305 10.263305 0 0 0 63.001953 149.82031 L 63.001953 423.80664 A 10.263305 10.263305 0 0 0 73.263672 434.07031 L 123.72852 434.07031 L 95.3125 502.8125 A 15.394957 15.394957 0 1 0 123.75 514.5625 L 157.01172 434.07031 L 424.25195 434.07031 L 457.46875 514.5625 A 15.399125 15.399125 0 1 0 485.9375 502.8125 L 457.52148 434.07031 L 511.01172 434.07031 A 10.263305 10.263305 0 0 0 521.27344 423.80664 L 521.27344 149.82031 A 10.263305 10.263305 0 0 0 511.01172 139.55859 L 341.74805 139.55859 L 306.375 56.09375 A 15.394957 15.394957 0 0 0 290.5625 46.59375 A 15.394957 15.394957 0 0 0 288.875 46.5 z M 290.65625 97.875 L 308.3125 139.55859 L 273.05078 139.55859 L 290.65625 97.875 z M 390.13672 193.30273 C 391.29042 193.29673 392.45337 193.31176 393.60547 193.35156 C 401.49273 193.23215 409.56736 193.65801 417.29102 194.71875 C 453.4752 199.65683 484.81988 229.80743 489.13086 266.26562 C 494.32314 294.94416 485.11777 327.4317 459.38867 343.72266 L 496.01758 343.72266 L 496.01758 379.37305 L 412.16406 379.37305 L 412.16406 341.13477 C 440.33181 322.84346 448.95217 282.9589 435.36133 253.08008 C 425.90011 225.93945 386.76147 219.00046 366.8418 238.57617 C 340.71963 267.59304 347.37985 319.93674 380.37109 341.13477 L 380.37109 379.375 L 310.58203 379.375 C 297.55498 382.60198 294.16676 376.18801 296.51562 364.03906 C 297.88353 355.63946 291.47468 339.4629 305.50195 343.72266 C 313.92859 343.36037 326.35706 344.45233 332.26562 343.18555 C 302.36142 323.51429 295.83721 282.25782 307.35742 250.39453 C 318.25437 215.2565 354.3717 193.49276 390.13672 193.30273 z M 90.861328 196.62305 L 137.84375 196.62305 C 137.85625 211.56737 137.80908 226.51288 137.89258 241.45703 C 136.727 262.78866 141.18802 286.53401 159.57617 299.76953 C 160.15403 265.39056 159.79303 231.00428 159.86914 196.62305 L 206.89844 196.62305 L 206.89844 299.91602 C 213.6071 294.61564 219.12392 288.16881 222.86914 280.47852 C 233.43698 253.98885 227.50762 224.43004 228.97461 196.62305 L 275.95508 196.62305 C 275.02302 225.33827 279.3463 254.82148 271.16992 282.77344 C 262.22646 311.03829 238.38323 338.89249 207.04492 341.67188 C 206.80643 354.23807 206.92704 366.80547 206.89844 379.37305 L 159.86914 379.37305 L 159.86914 341.7207 C 138.40619 340.29991 120.7988 325.60113 108.63867 309 C 85.141723 277.81768 91.673481 236.46563 90.958984 199.94531 L 90.861328 196.62305 z "
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;color:#000000;fill:#000080;fill-opacity:1;stroke:none;stroke-width:30.78683472;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter" />
+</svg>

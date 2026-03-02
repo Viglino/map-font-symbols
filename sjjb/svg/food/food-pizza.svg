@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="580"
+   height="580"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="pizza.svg">
+  <metadata
+     id="metadata71">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="972"
+     id="namedview69"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="76.768133"
+     inkscape:cy="462.62839"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 290 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="580 : 290 : 1"
+       inkscape:persp3d-origin="290 : 193.33333 : 1"
+       id="perspective73" />
+    <symbol
+       viewBox="244.5 110 489 219.9"
+       id="symbol-university">
+      <path
+         d="m 79,43 57,119 c 0,0 21,-96 104,-96 83,0 124,106 124,106 L 407,39 489,22 0,17 79,43 z"
+         id="path4460" />
+      <path
+         d="M 94,176 73,215"
+         id="path4462"
+         style="fill:none;stroke:#000000;stroke-width:20" />
+      <path
+         d="M 300,19 C 300,29.5 277.4,38 249.5,38 221.6,38 199,29.5 199,19 199,8.5 221.6,0 249.5,0 277.4,0 300,8.5 300,19 z"
+         id="path4464" />
+      <path
+         d="M 112,216 96,178 64,88 C 64,88 55,80 60,53 65,26 76,29 76,29"
+         id="path4466"
+         style="stroke:#000000;stroke-width:20" />
+    </symbol>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         id="path4137"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         id="path4125"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         transform="scale(0.8,0.8)"
+         id="path4214"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         id="path4119"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Tail"
+       style="overflow:visible">
+      <g
+         transform="scale(-1.2,-1.2)"
+         id="g4152">
+        <path
+           d="M -3.8048674,-3.9585227 0.54352094,0"
+           id="path4154"
+           style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:round;marker-start:none;marker-end:none" />
+        <path
+           d="M -1.2866832,-3.9585227 3.0617053,0"
+           id="path4156"
+           style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:round;marker-start:none;marker-end:none" />
+        <path
+           d="M 1.3053582,-3.9585227 5.6537466,0"
+           id="path4158"
+           style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:round;marker-start:none;marker-end:none" />
+        <path
+           d="M -3.8048674,4.1775838 0.54352094,0.21974226"
+           id="path4160"
+           style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:round;marker-start:none;marker-end:none" />
+        <path
+           d="M -1.2866832,4.1775838 3.0617053,0.21974226"
+           id="path4162"
+           style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:round;marker-start:none;marker-end:none" />
+        <path
+           d="M 1.3053582,4.1775838 5.6537466,0.21974226"
+           id="path4164"
+           style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:round;marker-start:none;marker-end:none" />
+      </g>
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Sstart"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         id="path4128"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Send"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         id="path4131"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="SemiCircleOut"
+       style="overflow:visible">
+      <path
+         d="m -2.5,-0.80913858 c 0,2.75999998 -2.24,4.99999998 -5,4.99999998 l 0,-10 c 2.76,0 5,2.24 5,5.00000002 z"
+         transform="matrix(0.6,0,0,0.6,4.2752958,0.4580676)"
+         id="path4235"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none;marker-end:none" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Send"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         id="path4149"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="TriangleOutS"
+       style="overflow:visible">
+      <path
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         transform="scale(0.2,0.2)"
+         id="path4220"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="CurveIn"
+       style="overflow:visible">
+      <path
+         d="m 4.625493,-5.0456926 c -2.76,0 -5.00000002,2.24 -5.00000002,5.00000002 0,2.75999998 2.24000002,4.99999998 5.00000002,4.99999998"
+         transform="scale(0.6,0.6)"
+         id="path4238"
+         style="fill:none;stroke:#000000;stroke-width:1pt;marker-start:none;marker-end:none" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="InfiniteLineStart"
+       style="overflow:visible">
+      <g
+         transform="translate(-13,0)"
+         id="g4298">
+        <circle
+           cx="3"
+           cy="0"
+           r="0.80000001"
+           id="circle4300" />
+        <circle
+           cx="6.5"
+           cy="0"
+           r="0.80000001"
+           id="circle4302" />
+        <circle
+           cx="10"
+           cy="0"
+           r="0.80000001"
+           id="circle4304" />
+      </g>
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="StopS"
+       style="overflow:visible">
+      <path
+         d="M 0,5.65 0,-5.65"
+         transform="scale(0.2,0.2)"
+         id="path4229"
+         style="fill:none;stroke:#000000;stroke-width:1pt" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Sstart"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(0.3,0,0,0.3,-0.69,0)"
+         id="path4146"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="DiamondS"
+       style="overflow:visible">
+      <path
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 0,-7.0710768 z"
+         transform="scale(0.2,0.2)"
+         id="path4202"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="RazorWire">
+       style=&quot;overflow:visible&quot;&gt;
+      <path
+   d="m 0.02272727,-0.74009011 0,1.4375 -7.78124997,2.31250001 18.4374997,0 -7.1874997,-2.31250001 0,-1.4375 7.2499997,-2.15624999 -18.4687497,0 7.74999997,2.15624999 z"
+   transform="scale(0.8,0.8)"
+   id="path4286"
+   style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1pt" />
+</marker>
+    <inkscape:perspective
+       id="perspective3782"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3782-9"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3782-7"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3782-5"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3782-54"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3782-4"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3782-0"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3782-6"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3782-8"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3782-49"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3782-68"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3782-2"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3782-495"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2907"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2907-8"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <path
+     style="fill:#000080;fill-opacity:1"
+     d="M 299.45703,17.767578 C 181.09501,12.460639 73.088841,83.381227 33.396451,192.47011 -6.2957274,301.55842 31.654741,423.1755 126.8719,492.08372 222.08905,560.99193 352.20032,561.00035 447.40619,492.08705 542.61257,423.17338 580.53683,301.53483 540.82617,192.44531 L 425.02344,232.70117 C 427.63995,240.82966 425.47135,249.89938 419.23828,256.63477 412.85788,263.52998 403.20289,266.92873 393.91016,265.55078 384.75749,264.19369 377.33491,258.401 374.33008,250.32227 L 287.11523,280.64062 320.61523,158.67969 319.79688,158.83398 C 311.36928,156.40386 304.99986,149.24077 303.08789,140.04297 301.17583,130.84516 304.01173,121.00995 310.52734,114.24219 315.4564,109.12197 322.00376,106.2756 328.67773,106.35156 330.71497,106.3751 332.72963,106.67097 334.67578,107.23242 L 334.72461,107.31445 356.92578,26.488281 C 338.14787,21.56254 318.87927,18.638591 299.45703,17.767578 Z M 240.32227,64.943403 C 251.65443,64.985527 260.25234,74.118938 260.25195,84.9375 260.25195,95.983202 251.29764,104.9375 240.25195,104.9375 229.20626,104.9375 220.25195,95.983202 220.25195,84.9375 220.25157,74.015069 228.99011,64.901278 240.32227,64.943403 Z M 148.10255,133.17343 C 159.43038,133.21235 168.03253,142.06891 168.0332,152.88672 168.0332,163.93242 159.07889,172.88672 148.0332,172.88672 136.98751,172.88672 128.0332,163.93242 128.0332,152.88672 128.03387,141.96503 136.77471,133.13451 148.10255,133.17343 Z M 230.61233,169.57386 C 241.9409,169.61277 250.54335,178.4705 250.54297,189.28906 250.54297,200.33476 241.58866,209.28906 230.54297,209.28906 219.49728,209.28906 210.54297,200.33476 210.54297,189.28906 210.54258,178.36664 219.28377,169.53496 230.61233,169.57386 Z M 97.139679,242.37661 C 108.46825,242.41551 117.0707,251.27324 117.07031,262.0918 117.06682,273.13503 108.11354,282.08594 97.070312,282.08594 86.027087,282.08594 77.073804,273.13503 77.070312,262.0918 77.06992,251.16936 85.811107,242.3377 97.139679,242.37661 Z M 197.80176,265.11288 C 209.1296,265.15181 217.73175,274.00837 217.73242,284.82617 217.73242,295.87187 208.77811,304.82617 197.73242,304.82617 186.68673,304.82617 177.73242,295.87187 177.73242,284.82617 177.7331,273.90448 186.47393,265.07396 197.80176,265.11288 Z M 473.29202,283.63246 C 484.62059,283.67136 493.22305,292.52909 493.22266,303.34766 493.22266,314.39336 484.26835,323.34766 473.22266,323.34766 462.17697,323.34766 453.22266,314.39336 453.22266,303.34766 453.22227,292.42523 461.96345,283.59356 473.29202,283.63246 Z M 264.58888,324.88828 C 275.91671,324.9272 284.51886,333.78376 284.51953,344.60156 284.51953,355.64726 275.56522,364.60156 264.51953,364.60156 253.47384,364.60156 244.51953,355.64726 244.51953,344.60156 244.52021,333.67987 253.26104,324.84935 264.58888,324.88828 Z M 364.08692,324.88828 C 375.41475,324.9272 384.01691,333.78375 384.01758,344.60156 384.01758,355.64726 375.06327,364.60156 364.01758,364.60156 352.97189,364.60156 344.01758,355.64726 344.01758,344.60156 344.01826,333.67988 352.75909,324.84936 364.08692,324.88828 Z M 133.54202,346.72816 C 144.87059,346.76706 153.47305,355.62479 153.47266,366.44336 153.47266,377.48906 144.51835,386.44336 133.47266,386.44336 122.42697,386.44336 113.47266,377.48906 113.47266,366.44336 113.47227,355.52094 122.21345,346.68926 133.54202,346.72816 Z M 429.60843,397.69105 C 440.937,397.72996 449.53945,406.58769 449.53906,417.40625 449.53906,428.45195 440.58475,437.40625 429.53906,437.40625 418.49337,437.40625 409.53906,428.45195 409.53906,417.40625 409.53868,406.48382 418.27986,397.65214 429.60843,397.69105 Z M 194.21194,431.66566 C 205.54051,431.70456 214.14297,440.56229 214.14258,451.38086 214.14258,462.42656 205.18827,471.38086 194.14258,471.38086 183.09689,471.38086 174.14258,462.42656 174.14258,451.38086 174.14219,440.45844 182.88337,431.62676 194.21194,431.66566 Z M 322.83108,436.51918 C 334.15965,436.55808 342.76211,445.41581 342.76172,456.23438 342.76172,467.28008 333.80741,476.23438 322.76172,476.23438 311.71603,476.23438 302.76172,467.28008 302.76172,456.23438 302.76133,445.31195 311.50251,436.48028 322.83108,436.51918 Z"
+     id="path2870"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssscccsccccscccccsccsccccsccccsccccsccccsccccsccccsccccsccccsccccsccccsccccscc" />
+</svg>

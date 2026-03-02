@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="580"
+   height="580"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="college_vocational.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata2975">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:language>en</dc:language>
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="972"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.46083856"
+     inkscape:cx="85.253931"
+     inkscape:cy="94.333118"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 290 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="580 : 290 : 1"
+       inkscape:persp3d-origin="290 : 193.33333 : 1"
+       id="perspective2441" />
+    <inkscape:perspective
+       id="perspective3452"
+       inkscape:persp3d-origin="30 : 20 : 1"
+       inkscape:vp_z="60 : 30 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 30 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <symbol
+       viewBox="244.5 110 489 219.9"
+       id="symbol-university">
+      <path
+         id="path4460"
+         d="M79,43l57,119c0,0,21-96,104-96s124,106,124,106l43-133l82-17L0,17L79,43z" />
+      <path
+         id="path4462"
+         d="M94,176l-21,39"
+         stroke-width="20"
+         stroke="#000000"
+         fill="none" />
+      <path
+         id="path4464"
+         d="M300,19c0,10.5-22.6,19-50.5,19S199,29.5,199,19s22.6-19,50.5-19S300,8.5,300,19z" />
+      <path
+         id="path4466"
+         d="M112,216l-16-38L64,88c0,0-9-8-4-35s16-24,16-24"
+         stroke-width="20"
+         stroke="#000000"
+         ill="none" />
+    </symbol>
+    <inkscape:perspective
+       id="perspective4471"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4668"
+       inkscape:persp3d-origin="6 : 4 : 1"
+       inkscape:vp_z="12 : 6 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 6 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       viewBox="0 0 10 10"
+       refY="5"
+       refX="10"
+       orient="auto"
+       markerWidth="4"
+       markerUnits="strokeWidth"
+       markerHeight="3"
+       id="ArrowStart">
+      <path
+         id="path3634"
+         d="M 10 0 L 0 5 L 10 10 z" />
+    </marker>
+    <marker
+       viewBox="0 0 10 10"
+       refY="5"
+       refX="0"
+       orient="auto"
+       markerWidth="4"
+       markerUnits="strokeWidth"
+       markerHeight="3"
+       id="ArrowEnd">
+      <path
+         id="path3631"
+         d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+    <inkscape:perspective
+       id="perspective2510"
+       inkscape:persp3d-origin="306.082 : 204.39034 : 1"
+       inkscape:vp_z="612.164 : 306.58551 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 306.58551 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       viewBox="0 0 10 10"
+       refY="5"
+       refX="10"
+       orient="auto"
+       markerWidth="4"
+       markerUnits="strokeWidth"
+       markerHeight="3"
+       id="marker2611">
+      <path
+         id="path1325"
+         d="M 10 0 L 0 5 L 10 10 z" />
+    </marker>
+    <marker
+       viewBox="0 0 10 10"
+       refY="5"
+       refX="0"
+       orient="auto"
+       markerWidth="4"
+       markerUnits="strokeWidth"
+       markerHeight="3"
+       id="marker2608">
+      <path
+         id="path1322"
+         d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+    <inkscape:perspective
+       id="perspective2605"
+       inkscape:persp3d-origin="306.082 : 204.39034 : 1"
+       inkscape:vp_z="612.164 : 306.58551 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 306.58551 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2656"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4707"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <clipPath
+       id="clipoutline1"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         d="m 22.42,17.2 12.96,12.95 -2.5,8.78 -8.78,2.5 -12.96,-12.96 -5.86,5.86 14.89,21.46 17.56,-3.34 61.63,65.62 c 9.44,9.51 22.17,-4.75 13.34,-12.87 L 46.85,42.92 50.86,25.16 28.72,10.89 22.42,17.2 z m 81.06,91.97 c 1.68,-1.68 4.4,-1.68 6.08,0 1.68,1.68 1.68,4.4 0,6.08 -1.68,1.67 -4.4,1.67 -6.08,0 -1.68,-1.68 -1.68,-4.4 0,-6.08 z"
+         id="outline1" />
+    </clipPath>
+    <inkscape:perspective
+       id="perspective5296"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <clipPath
+       id="clipoutline1-9"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         d="m 22.42,17.2 12.96,12.95 -2.5,8.78 -8.78,2.5 -12.96,-12.96 -5.86,5.86 14.89,21.46 17.56,-3.34 61.63,65.62 c 9.44,9.51 22.17,-4.75 13.34,-12.87 L 46.85,42.92 50.86,25.16 28.72,10.89 22.42,17.2 z m 81.06,91.97 c 1.68,-1.68 4.4,-1.68 6.08,0 1.68,1.68 1.68,4.4 0,6.08 -1.68,1.67 -4.4,1.67 -6.08,0 -1.68,-1.68 -1.68,-4.4 0,-6.08 z"
+         id="outline1-7" />
+    </clipPath>
+  </defs>
+  <g
+     id="layer3"
+     inkscape:label="Layout"
+     style="display:none;stroke:#757575;stroke-opacity:1"
+     transform="matrix(48.14969,0,0,48.14969,-536.27327,-33.306752)">
+    <rect
+       style="fill:none;stroke:#757575;stroke-width:0.10000000000000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       id="rect4134"
+       width="10"
+       height="10"
+       x="1"
+       y="1" />
+    <rect
+       style="fill:none;stroke:#757575;stroke-width:0.10000000000000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       id="rect4136"
+       width="8"
+       height="8"
+       x="2"
+       y="2" />
+  </g>
+  <path
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;color:#000000;fill:#000080;fill-opacity:1;stroke:none;stroke-width:30.78683472;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+     d="M 288.875 46.5 A 15.394957 15.394957 0 0 0 274.875 56.09375 L 239.61328 139.55859 L 73.263672 139.55859 A 10.263305 10.263305 0 0 0 63.001953 149.82031 L 63.001953 423.80664 A 10.263305 10.263305 0 0 0 73.263672 434.07031 L 123.72852 434.07031 L 95.3125 502.8125 A 15.394957 15.394957 0 1 0 123.75 514.5625 L 157.01172 434.07031 L 424.25195 434.07031 L 457.46875 514.5625 A 15.399125 15.399125 0 1 0 485.9375 502.8125 L 457.52148 434.07031 L 511.01172 434.07031 A 10.263305 10.263305 0 0 0 521.27344 423.80664 L 521.27344 149.82031 A 10.263305 10.263305 0 0 0 511.01172 139.55859 L 341.74805 139.55859 L 306.375 56.09375 A 15.394957 15.394957 0 0 0 290.5625 46.59375 A 15.394957 15.394957 0 0 0 288.875 46.5 z M 290.65625 97.875 L 308.3125 139.55859 L 273.05078 139.55859 L 290.65625 97.875 z M 168.61523 219.88477 C 170.31358 219.92597 171.9621 220.88258 172.8418 222.33594 L 188.49414 248.21875 L 188.73828 248.58594 C 193.51974 255.23198 196.30717 262.14698 200.04102 266.22852 C 289.86625 265.34939 379.66871 264.45919 469.49609 263.59375 C 469.57979 263.58875 469.65868 263.59775 469.74219 263.59375 C 486.66883 262.7663 499.87421 277.90468 499.48438 294.04102 L 499.51367 294.04102 C 499.51867 294.13422 499.50967 294.22339 499.51367 294.31641 C 499.51167 294.38821 499.51667 294.4595 499.51367 294.53125 L 499.48438 294.53125 C 500.06378 310.61563 486.87563 325.03318 470.44531 325.03906 C 470.37381 325.04106 470.30388 325.04106 470.23242 325.03906 C 405.09893 322.43993 340.02838 318.67507 274.99414 315.63477 C 274.98394 315.63439 274.97309 315.63517 274.96289 315.63477 C 249.68047 314.67485 224.37786 312.63248 199.61133 312.29688 C 189.48392 325.08567 180.34531 339.45573 170.23828 353.18945 C 169.10041 354.7517 167.01763 355.56164 165.12305 355.17969 L 91.425781 340.44531 C 89.115572 339.97704 87.304749 337.71806 87.351562 335.36133 L 87.71875 314.34961 C 87.76664 311.7079 90.191886 309.34125 92.833984 309.35742 C 110.04047 309.38242 127.25853 310.3979 143.77344 309.9082 C 148.0562 303.4313 152.10319 296.51025 155.47461 289.66016 C 152.37671 282.67605 148.49172 275.57188 144.44727 268.98633 C 127.45468 267.93355 109.86988 268.33622 92.251953 267.75977 C 89.610241 267.68047 87.273483 265.22644 87.322266 262.58398 L 87.689453 239.58008 C 87.732573 237.26778 89.55216 235.11131 91.824219 234.67969 L 167.51172 219.97656 C 167.8745 219.90596 168.24578 219.87498 168.61523 219.88477 z M 470.875 284.73047 C 470.65293 284.72847 470.42699 284.74137 470.20117 284.75977 C 470.06891 284.77517 469.9358 284.78612 469.80273 284.79102 C 463.59161 284.80792 458.76446 291.82392 460.88867 297.65625 C 460.92317 297.76747 460.95367 297.87888 460.98047 297.99219 C 462.99018 304.94866 474.25796 306.543 478.10352 300.38086 C 478.19812 300.23276 478.30074 300.09064 478.41016 299.95312 C 482.72288 294.43493 477.75915 284.79054 470.875 284.73047 z "
+     id="path3526" />
+</svg>

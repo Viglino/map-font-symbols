@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="24"
+   height="24"
+   id="svg4460"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="tete-pirate.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="972"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="0.30729166"
+     inkscape:cx="272.42107"
+     inkscape:cy="-283.84087"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4460" />
+  <defs
+     id="defs4462" />
+  <metadata
+     id="metadata4465">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     unicode="D"
+     horiz-adv-x="1916"
+     d="M 0,12.14643 Q 0,14.89366 1.77107,16.96456 3.54213,19.03545 6.77745,19.98373 L 6.77745,20.48577 Q 6.77745,21.40617 7.405,22.0616 8.03254,22.71703 8.9111,22.77281 9.0645,22.78676 9.20395,22.78676 9.90122,22.78676 10.27775,22.43812 10.96107,22.98199 11.85357,22.98199 12.64846,22.98199 13.34573,22.4939 13.70831,22.78676 14.3219,22.78676 14.4753,22.78676 14.6566,22.77281 15.57699,22.68914 16.18362,22.04765 16.79024,21.40617 16.79024,20.48577 L 16.79024,20.09529 Q 20.30448,19.1749 22.22893,16.95758 20.76467,15.81406 19.4817,14.61476 18.50552,15.24231 17.362,15.24231 15.73039,15.24231 14.56595,14.043 13.40151,12.84369 13.40151,11.15631 13.40151,9.58048 14.48925,8.40907 12.2301,4.6717 11.57467,1.01801 6.97269,1.12957 3.77919,4.01627 0.75305,6.76352 0.11156,10.83556 0,11.491 0,12.14643 Z M 3.59791,11.23998 Q 3.59791,9.66415 4.57409,8.52063 5.55026,7.37711 6.9169,7.37711 8.25566,7.37711 9.22487,8.52063 10.19408,9.66415 10.19408,11.23998 10.19408,12.84369 9.22487,13.9663 8.25566,15.08891 6.9169,15.08891 5.55026,15.08891 4.57409,13.9663 3.59791,12.84369 3.59791,11.23998 Z M 10.59849,17.29228 Q 10.59849,16.66473 11.07264,16.03719 11.54677,15.40964 11.99303,15.40964 12.45323,15.40964 12.83673,16.09297 13.22022,16.7763 13.22022,17.43173 13.22022,18.38002 12.02092,18.38002 11.22604,18.38002 10.82161,17.94771 10.59849,17.69669 10.59849,17.29228 Z M 13.22022,1.04591 Q 13.91749,4.22545 15.80012,7.44683 16.56712,7.0982 17.362,7.0982 19.0215,7.0982 20.17896,8.28356 21.33644,9.46892 21.33644,11.15631 21.33644,12.43928 20.65311,13.47124 21.82452,14.58687 23.13539,15.63277 23.98605,14.00117 24,12.11853 24,11.491 23.90238,10.83556 23.27484,6.91691 20.48576,4.2394 17.54329,1.40849 13.22022,1.04591 Z"
+     id="path84" />
+</svg>

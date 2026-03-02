@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="24"
+   height="24"
+   id="svg4460"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="coeur-croix.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="972"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="0.30729166"
+     inkscape:cx="272.42107"
+     inkscape:cy="-283.84087"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4460" />
+  <defs
+     id="defs4462" />
+  <metadata
+     id="metadata4465">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     unicode="E"
+     horiz-adv-x="1947"
+     d="M 0,6.956413 Q 0.35419,9.166513 1.62928,11.631713 4.67532,17.553813 12.01417,23.900913 19.32468,17.539613 22.39906,11.631713 23.67414,9.166513 24,6.956413 L 24,6.616313 Q 23.98584,3.541913 22.00237,1.671813 20.31642,0.08501297 18.2196,0.09921297 17.69539,0.09921297 17.14286,0.19841297 14.09681,0.73681297 12.01417,4.080413 9.50649,0.11341297 5.89375,0.11341297 L 5.8654,0.11341297 Q 3.3719,0.11341297 1.68595,1.997713 0,3.882013 0,6.687213 L 0,6.956413 Z M 6.95632,14.125213 6.95632,9.053213 Q 8.55727,10.824213 11.29161,11.022513 11.09328,8.089813 9.39315,6.701313 L 14.33767,6.701313 Q 12.62337,7.948213 12.4392,11.022513 15.34357,10.824213 16.7745,9.138213 L 16.7745,14.068613 Q 15.49941,12.354313 12.4392,12.155913 12.60921,14.890213 14.39434,16.505413 L 9.30815,16.505413 Q 11.0791,14.876113 11.29161,12.184313 8.55727,12.354313 6.95632,14.125213 Z"
+     id="path86" />
+</svg>

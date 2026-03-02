@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="24"
+   height="24"
+   id="svg4460"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="pharmacy.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="972"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="-3.7627119"
+     inkscape:cy="12"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4460" />
+  <defs
+     id="defs4462" />
+  <metadata
+     id="metadata4465">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#444444;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+     id="rect14245"
+     inkscape:connector-curvature="0"
+     d="M 12.5,2 C 9.46243,2 7,3.1193 7,4.5 L 7,7.5 C 7,8.8807 9.46243,10 12.5,10 15.53757,10 18,8.8807 18,7.5 L 18,4.5 C 18,3.1193 15.53757,2 12.5,2 Z M 7,11 7,18.5 C 7,19.8807 9.46243,21 12.5,21 15.53757,21 18,19.8807 18,18.5 L 18,11 C 18,10 17.5,10 17,10.5 16.16139,11.3935 14.7722,12 12.5,12 10.27286,12 8.86489,11.3653 8,10.5 7.5,10 7,10 7,11 Z M 10,14 C 10.75195,14.1754 11.5967,14.2813 12.5,14.2813 13.4033,14.2813 14.24805,14.1754 15,14 L 15,18 C 14.24805,18.1754 13.4033,18.2813 12.5,18.2813 11.5967,18.2813 10.75195,18.1754 10,18 Z" />
+</svg>

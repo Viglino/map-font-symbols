@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="580"
+   height="580"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="nursery.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs22">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 290 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="580 : 290 : 1"
+       inkscape:persp3d-origin="290 : 193.33333 : 1"
+       id="perspective24" />
+    <marker
+       viewBox="0 0 10 10"
+       refY="5"
+       refX="10"
+       orient="auto"
+       markerWidth="4"
+       markerUnits="strokeWidth"
+       markerHeight="3"
+       id="ArrowStart">
+      <path
+         id="path3568"
+         d="M 10 0 L 0 5 L 10 10 z" />
+    </marker>
+    <marker
+       viewBox="0 0 10 10"
+       refY="5"
+       refX="0"
+       orient="auto"
+       markerWidth="4"
+       markerUnits="strokeWidth"
+       markerHeight="3"
+       id="ArrowEnd">
+      <path
+         id="path3565"
+         d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+    <inkscape:perspective
+       id="perspective2683"
+       inkscape:persp3d-origin="306.082 : 204.39034 : 1"
+       inkscape:vp_z="612.164 : 306.58551 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 306.58551 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       viewBox="0 0 10 10"
+       refY="5"
+       refX="10"
+       orient="auto"
+       markerWidth="4"
+       markerUnits="strokeWidth"
+       markerHeight="3"
+       id="marker2959">
+      <path
+         id="path2626"
+         d="M 10 0 L 0 5 L 10 10 z" />
+    </marker>
+    <marker
+       viewBox="0 0 10 10"
+       refY="5"
+       refX="0"
+       orient="auto"
+       markerWidth="4"
+       markerUnits="strokeWidth"
+       markerHeight="3"
+       id="marker2956">
+      <path
+         id="path2623"
+         d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+    <inkscape:perspective
+       id="perspective2953"
+       inkscape:persp3d-origin="306.082 : 204.39034 : 1"
+       inkscape:vp_z="612.164 : 306.58551 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 306.58551 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:language>en</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1005"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="396.05862"
+     inkscape:cy="415.25176"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg2"
+     inkscape:window-maximized="0" />
+  <g
+     id="g2319"
+     transform="translate(879.29125,36.805119)">
+    <path
+       id="path2323"
+       style="fill:#ffffff;stroke:none"
+       d="" />
+  </g>
+  <g
+     id="g2325"
+     transform="translate(879.29125,36.805119)">
+    <path
+       id="path2329"
+       style="fill:#ffffff;stroke:none"
+       d="" />
+  </g>
+  <path
+     style="fill:#000080;stroke:none"
+     d="M 283.44727,33.681641 C 243.37328,33.681641 210.88672,66.170155 210.88672,106.24414 210.88672,146.31812 243.37328,178.80664 283.44727,178.80664 323.52125,178.80664 356.00781,146.31812 356.00781,106.24414 356.00781,66.170155 323.52125,33.681641 283.44727,33.681641 Z M 239.39844,190.01562 C 225.71573,190.01562 217.09479,194.99229 209.2168,202.81445 L 112.08789,300.12891 C 85.543053,326.67739 121.4637,360.65739 147.96484,334.15625 L 206.625,275.10742 206.625,330.49219 283.32812,330.49219 283.40039,330.49219 359.57227,330.49219 359.57227,274.80273 419.76953,335.12695 C 444.00924,360.65821 480.9004,326.35352 455.62891,301.08203 L 357.51367,202.81445 C 349.40626,194.84056 340.17684,190.01562 326.49414,190.01562 L 283.40039,190.01562 283.32812,190.01562 Z M 206.63672,359.21484 C 206.63672,359.21484 157.60419,408.30011 157.55078,408.35352 141.77052,424.13379 145.8412,451.87806 160.56055,466.89844 L 229.14453,538.21094 C 255.61289,564.6793 290.92251,528.07141 265.32812,502.47461 L 221.96094,459.10938 264.2832,416.86523 Z M 359.25586,359.21484 301.60938,416.86523 343.93164,459.10938 300.56641,502.47461 C 274.97203,528.07141 310.27969,564.6793 336.74805,538.21094 L 405.33398,466.89844 C 420.05333,451.87806 424.12207,424.13379 408.3418,408.35352 408.28839,408.30011 359.25586,359.21484 359.25586,359.21484 Z"
+     id="path2636"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="zzzzzsccccccccccccsccscsccccccccccccsc" />
+</svg>
